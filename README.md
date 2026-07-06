@@ -14,7 +14,7 @@
 Hi, I'm **Ashfaque Ahmed** — an aspiring **AI/ML Engineer** passionate about building intelligent systems using **Natural Language Processing (NLP), Machine Learning, Deep Learning, and Generative AI**.
 
 - 🔗 **GitHub:** https://github.com/ashfaque-ahmed78
-- 🔗 **LinkedIn:** Add your LinkedIn Profile
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/ashfaque-ahmed-29a05332b/)
 
 ---
 
