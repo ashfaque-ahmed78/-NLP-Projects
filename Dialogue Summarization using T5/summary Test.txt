@@ -1,0 +1,56 @@
+Test Case 1 (Business Meeting)
+Input
+CEO: Welcome everyone. Our quarterly revenue increased by 18%, but customer retention dropped by 6%.
+
+Marketing Manager: Customer surveys show that users want faster customer support and more loyalty rewards.
+
+Product Manager: We are planning to release a mobile app update next month with improved performance and new features.
+
+CEO: Great. Let's prioritize customer support improvements and launch the loyalty program before the app update.
+
+HR Manager: I'll arrange training sessions for the support team next week.
+
+CEO: We'll review our progress in the next monthly meeting.
+
+
+Test Case 2 (Software Development)
+Input
+Project Manager: The website redesign project is entering its final phase.
+
+Frontend Developer: The user interface is complete and responsive across all devices.
+
+Backend Developer: The authentication system and payment gateway have been integrated successfully.
+
+QA Engineer: We identified 32 bugs during testing. Twenty-five have been fixed, while the remaining seven are high priority.
+
+Project Manager: Let's resolve the remaining bugs this week so deployment can begin on Monday.
+
+QA Engineer: I'll perform regression testing before deployment.
+
+
+Test Case 3 (Healthcare)
+Input
+Doctor: Patient admissions have increased significantly this month.
+
+Head Nurse: Emergency cases have increased by nearly 20%, causing longer waiting times.
+
+Hospital Administrator: We should hire temporary staff and extend emergency department shifts.
+
+Doctor: We also need additional medical supplies before the weekend.
+
+Administrator: I'll approve the budget today and monitor the situation daily.
+
+
+Test Case 5 (AI Startup)
+Input
+Founder: Our AI document summarization platform reached 50,000 active users this month.
+
+Data Scientist: The latest transformer model improved summary quality by 12%.
+
+ML Engineer: Inference latency has increased due to the larger model.
+
+Founder: Optimize the model using quantization and knowledge distillation.
+
+Product Manager: We'll release the optimized version after benchmarking against the current system.
+
+Founder: Let's complete optimization within two weeks.
